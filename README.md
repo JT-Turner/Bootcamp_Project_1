@@ -1,1 +1,2 @@
-# Bootcamp_Project_1
+Project Proposal
+For this project, we will be focusing on the healthcare field. Specifically, we have chosen to work with the Kaggle Mental Health in Tech survey as a main source of data. We will examine the relationships between mental health issues and style of work, as well as between geographic location and mental health issue frequency and attitudes. Finally, the frequency at which remote workers are able to confidently use mental health resources and feel that it is ok to speak about it.
